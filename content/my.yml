@@ -1,1 +1,14 @@
-"D:\\yf\\nodejs_pratice\\content\\my.yml"
+key1:
+    child-key1:
+        name: zhangsan
+        age: 26
+    child-key2: Test
+key2:
+    - Chen
+    - true
+    - 30
+key3:
+    - 11
+    - 22
+    - Test
+    - false
